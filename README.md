@@ -3,7 +3,7 @@ My backend development portfolio using Python and Django
 
 # 🚀 Marco's Backend Development Journey
 
-Welcome! 👋  
+Hello There! 👋  
 I'm Marco — an aspiring **Backend Developer** specializing in **Python** and **Django**.  
 This repository showcases the projects I’m building as I grow my backend skills.
 
